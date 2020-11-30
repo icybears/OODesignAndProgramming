@@ -1,5 +1,7 @@
 # Object Oriented Design and Programming practice exercices
+
 The following are a couple of programming exercices that focus on Object orientation, taken from "SQLI E-Challenges".
+
 The goal is to design and implement a program that passes all the tests in the test class. Each exercise has its own test class inside in `test/net/sabercrafts/oop`
 The exercises are:
 
