@@ -70,14 +70,14 @@ The exercises are:
 You can find the code inside `src/net/sabercrafts/oop`.
 Below is my proposed solutions class diagrams:
 
-## Elevators exercise
+## Elevators exercise (click to enlarge)
 
 ![Elevator class diagram](src/net/sabercrafts/oop/elevator/elevator-class-diagram.jpg?raw=true "Elevator class diagram")
 
-## Train exercise
+## Train exercise (click to enlarge)
 
 ![Train class diagram](src/net/sabercrafts/oop/train/train-class-diagram.jpg?raw=true "Train class diagram")
 
-## Quarantine exercise
+## Quarantine exercise (click to enlarge)
 
 ![Quarantine class diagram](src/net/sabercrafts/oop/quarantine/quarantine-class-diagram.jpg?raw=true "Elevator class diagram")
